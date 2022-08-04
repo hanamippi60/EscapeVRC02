@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{53c3acb5-0e0d-4fd7-aa0b-d194db052ce6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.Udon.Serialization.OdinSerializer", "VRC.Udon.Serialization.OdinSerializer.csproj", "{056c648c-2417-e1e8-6c23-790c2d063d69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.Udon", "VRC.Udon.csproj", "{0d604026-520d-2011-0d99-50b942f367ce}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.Enums.Validation.Performance", "VRC.Enums.Validation.Performance.csproj", "{72c1089c-8a49-9802-fa27-2da72e0a4ee7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.SDKBase.Editor.BuildPipeline", "VRC.SDKBase.Editor.BuildPipeline.csproj", "{244e34fe-8199-9a6c-9141-afc65061e031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.Udon.Editor", "VRC.Udon.Editor.csproj", "{c769c69b-cf1e-4408-2dae-2c12bed6dc2b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{60cd221f-919c-1a03-bb56-1830ab252c28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRC.SDKBase.Editor.ShaderStripping", "VRC.SDKBase.Editor.ShaderStripping.csproj", "{1d062f90-ed57-cc5d-0d6a-9fb441e77026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditorTests", "UnityEditorTests.csproj", "{02047ae7-6b6b-e40d-7635-f8af2e44a488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53c3acb5-0e0d-4fd7-aa0b-d194db052ce6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53c3acb5-0e0d-4fd7-aa0b-d194db052ce6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056c648c-2417-e1e8-6c23-790c2d063d69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056c648c-2417-e1e8-6c23-790c2d063d69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0d604026-520d-2011-0d99-50b942f367ce}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0d604026-520d-2011-0d99-50b942f367ce}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72c1089c-8a49-9802-fa27-2da72e0a4ee7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72c1089c-8a49-9802-fa27-2da72e0a4ee7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244e34fe-8199-9a6c-9141-afc65061e031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244e34fe-8199-9a6c-9141-afc65061e031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c769c69b-cf1e-4408-2dae-2c12bed6dc2b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c769c69b-cf1e-4408-2dae-2c12bed6dc2b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60cd221f-919c-1a03-bb56-1830ab252c28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60cd221f-919c-1a03-bb56-1830ab252c28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1d062f90-ed57-cc5d-0d6a-9fb441e77026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1d062f90-ed57-cc5d-0d6a-9fb441e77026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02047ae7-6b6b-e40d-7635-f8af2e44a488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02047ae7-6b6b-e40d-7635-f8af2e44a488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
